@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Injustive
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python, Django
 - 🌱 I’m currently learning Python, English
 - 📫 How to reach me xayzenberg.stogniy@gmail.com
 <!---
